@@ -20,7 +20,7 @@ export default function Ranking() {
         <Row className="g-5">
           <Col md={3}>
             <a
-              href="https://www.hackerrank.com/MD_MAFUJUL_HASAN"
+              href="https://www.hackerrank.com/certificates/5211f2e9de23"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"
@@ -32,7 +32,7 @@ export default function Ranking() {
           </Col>
           <Col md={3}>
             <a
-              href="https://leetcode.com/mhtonmoy13/"
+              href="https://www.hackerrank.com/certificates/fafae27ad398/"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"
@@ -44,7 +44,7 @@ export default function Ranking() {
           </Col>
           <Col md={3}>
             <a
-              href="https://www.hackerearth.com/@mdtonmoy13.mt"
+              href="https://www.hackerrank.com/certificates/fafae27ad398"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"
@@ -56,7 +56,7 @@ export default function Ranking() {
           </Col>
           <Col md={3}>
             <a
-              href="https://www.codechef.com/users/mdtonmoy13mt"
+              href="https://www.hackerrank.com/certificates/fafae27ad398"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"
@@ -68,7 +68,7 @@ export default function Ranking() {
           </Col>
           <Col md={3}>
             <a
-              href="https://codeforces.com/profile/md_mafujul_hasan"
+              href="https://www.hackerrank.com/certificates/fafae27ad398"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"

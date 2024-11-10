@@ -30,14 +30,14 @@ const About = () => {
               <p className="home-about-body">
                 My name is <b className="purple">MD Mafujul Hasan </b> 
                   and I am a <b className="purple">Computer Science and Engineering </b> 
-                    student at <b className="purple">Sonargaon University </b>
+                    student at <b className="purple">Northwood University </b>
                       in Dhaka, Bangladesh.
                 <br />
                 <br />
                         I am proficient in various programming languages such as &nbsp;
                   <b className="purple">
                     {" "}
-                    C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.{" "}
+                    C, C++, Java, Python and JavaScript.{" "}
                   </b>
                 <br />
                 <br />
@@ -45,7 +45,7 @@ const About = () => {
 
                   <b className="purple">
                     {" "}
-                    NodeJS, ReactJS, OpenCV, Pandas, and NumPy.{" "}
+                    NodeJS, ReactJS, Pandas, and NumPy.{" "}
                   </b>
                 <br />
                 <br />
